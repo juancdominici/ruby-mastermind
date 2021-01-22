@@ -7,7 +7,7 @@ In the project directory, you can run:
 
 Runs the game in terminal.<br />
 
-###Como jugar Mastermind:
+### Como jugar Mastermind:
 
 Mastermind es un juego de un jugador contra la computadora.
 Podés elegir ser quien crea el código o quien decifra el código.
@@ -24,7 +24,7 @@ Como podés ver, puede haber más de uno del mismo números.
 Para ganar, quien decifra el codigo necesita adivinar el 'código maestro' en 12 turnos o menos.
 
 
-##Pistas:
+## Pistas:
 Después de cada intento de adivinar, va a haber hasta 4 pistas para ayudar a decifrar el código.
 
  ● Esto significa que tenes 1 número en la posición correcta.
@@ -32,7 +32,7 @@ Después de cada intento de adivinar, va a haber hasta 4 pistas para ayudar a de
  ○ Esto significa que tenes un número correcto, pero en una posición equivocada.
 
 
-##Ejemplo de pista:
+## Ejemplo de pista:
 Para continuar con el ejemplo, usando el 'codigo maestro' de arriba, un intento con "1463" produciría 3 pistas:
 
   1     4     6     3     Pistas: ● ○ ○ 
